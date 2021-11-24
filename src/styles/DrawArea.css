@@ -1,0 +1,11 @@
+.DrawArea-Container {
+  border: .375em solid #e9e5e1 ;
+  box-shadow: inset #e9e5e1  0 0 1em 0;;
+  flex: 1 0 0;
+  margin-top: 2em;
+}
+
+.DrawArea {
+  height: 100%;
+  width: 100%;
+}

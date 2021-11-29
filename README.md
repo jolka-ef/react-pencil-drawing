@@ -17,8 +17,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 ```sh
 # Clone the git repository and cd into the cloned directory.
-git clone https://github.com/jfirlejczyk/project-draw.git
-cd project-draw
+git clone https://github.com/jolka-ef/react-pencil-drawing.git
+cd react-pencil-drawing
 
 # Install the dependencies
 npm install

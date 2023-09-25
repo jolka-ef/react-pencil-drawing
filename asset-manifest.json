@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pencil-drawing/static/css/main.d64c3c21.chunk.css",
+    "main.js": "/react-pencil-drawing/static/js/main.f44525d8.chunk.js",
+    "main.js.map": "/react-pencil-drawing/static/js/main.f44525d8.chunk.js.map",
+    "runtime~main.js": "/react-pencil-drawing/static/js/runtime~main.5d991647.js",
+    "runtime~main.js.map": "/react-pencil-drawing/static/js/runtime~main.5d991647.js.map",
+    "static/js/2.8e5e124a.chunk.js": "/react-pencil-drawing/static/js/2.8e5e124a.chunk.js",
+    "static/js/2.8e5e124a.chunk.js.map": "/react-pencil-drawing/static/js/2.8e5e124a.chunk.js.map",
+    "index.html": "/react-pencil-drawing/index.html",
+    "precache-manifest.fa6bc66fcfabb366514f93e6e2302bee.js": "/react-pencil-drawing/precache-manifest.fa6bc66fcfabb366514f93e6e2302bee.js",
+    "service-worker.js": "/react-pencil-drawing/service-worker.js",
+    "static/css/main.d64c3c21.chunk.css.map": "/react-pencil-drawing/static/css/main.d64c3c21.chunk.css.map"
+  }
+}

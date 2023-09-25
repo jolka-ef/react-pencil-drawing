@@ -1,0 +1,12 @@
+.DrawPanel-tools {
+  margin-top: 1em;
+}
+
+@media(min-width: 50em) {
+  .DrawPanel {
+    align-items: flex-end;
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content: space-between;
+  }
+}
